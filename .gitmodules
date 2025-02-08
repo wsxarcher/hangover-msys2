@@ -1,6 +1,6 @@
 [submodule "wine"]
 	path = wine
-	url = https://github.com/AndreRH/wine.git
+	url = https://github.com/wsxarcher/wine-hangover-msys2.git
 	branch = arm64ec
 [submodule "qemu"]
 	path = qemu
